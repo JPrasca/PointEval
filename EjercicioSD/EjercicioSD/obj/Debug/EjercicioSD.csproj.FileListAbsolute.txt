@@ -1,0 +1,120 @@
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\EjercicioSD.exe
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\EjercicioSD.pdb
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Effects.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Interactions.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\System.Windows.Interactivity.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Effects.xml
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Interactions.xml
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\System.Windows.Interactivity.xml
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\de\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\en\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\es\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\it\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\MainWindow.g.cs
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\App.g.cs
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD_MarkupCompile.cache
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD_MarkupCompile.lref
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\MainWindow.baml
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.g.resources
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.Properties.Resources.resources
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.exe
+d:\documentos\visual studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.pdb
+D:\Documentos\Visual Studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\Simple Styles.baml
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\EjercicioSD.exe
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\EjercicioSD.pdb
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Effects.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\System.Windows.Interactivity.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Effects.xml
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\System.Windows.Interactivity.xml
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\Simple Styles.baml
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\MainWindow.g.cs
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\App.g.cs
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD_MarkupCompile.cache
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD_MarkupCompile.lref
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\MainWindow.baml
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.g.resources
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.Properties.Resources.resources
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csproj.GenerateResource.Cache
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.exe
+D:\Documentos\OneDrive\UDC\Sistemas dinámicos\Otras actividades\2015-2\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.pdb
+D:\Documentos\Visual Studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\Interop.MLApp.dll
+D:\Documentos\Visual Studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csproj.ResolveComReference.cache
+D:\Documentos\Visual Studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\XAMLWindows\WGraph.g.cs
+D:\Documentos\Visual Studio 2015\Projects\EjercicioSD\EjercicioSD\obj\Debug\XAMLWindows\WGraph.baml
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csproj.ResolveComReference.cache
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.exe
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.pdb
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\EjercicioSD.exe
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\EjercicioSD.pdb
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csprojResolveAssemblyReference.cache
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\Simple Styles.baml
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\MainWindow.g.cs
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\XAMLWindows\WGraph.g.cs
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\App.g.cs
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD_MarkupCompile.cache
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD_MarkupCompile.lref
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\MainWindow.baml
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\XAMLWindows\WGraph.baml
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.g.resources
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.Properties.Resources.resources
+C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csproj.GenerateResource.Cache

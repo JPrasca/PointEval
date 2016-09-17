@@ -1,0 +1,19 @@
+﻿<Window x:Class="EjercicioSD.XAMLWindows.WGraph"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EjercicioSD.XAMLWindows"
+        mc:Ignorable="d"
+        Title="Visualización de soluciones gráficas" Height="600" Width="900" WindowStartupLocation="CenterScreen" Icon="/EjercicioSD;component/IMG/math-mathematical-function-x-64.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <WebBrowser Name="visualizer" Grid.ColumnSpan="3"/>
+
+    </Grid>
+</Window>
