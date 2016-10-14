@@ -14,6 +14,5 @@
             <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
         <WebBrowser Name="visualizer" Grid.ColumnSpan="3"/>
-
     </Grid>
 </Window>
