@@ -6,6 +6,7 @@ namespace EjercicioSD.Clases
     {
 
         #region atributos
+        private int valorDePrueba;
         private double[,] valores;  //matríz de coeficientes del sistema
         private double a1b2, detA;
         private string tipo, estabilidad;

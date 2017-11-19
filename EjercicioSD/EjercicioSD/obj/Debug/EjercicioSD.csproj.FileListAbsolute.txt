@@ -118,3 +118,6 @@ C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\XAMLWind
 C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.g.resources
 C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.Properties.Resources.resources
 C:\Users\jdpra\Source\Repos\PointEval\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csproj.GenerateResource.Cache
+C:\Users\jdpra\Source\Repos\PointEvalLocal\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.csproj.ResolveComReference.cache
+C:\Users\jdpra\Source\Repos\PointEvalLocal\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.exe
+C:\Users\jdpra\Source\Repos\PointEvalLocal\EjercicioSD\EjercicioSD\obj\Debug\EjercicioSD.pdb
