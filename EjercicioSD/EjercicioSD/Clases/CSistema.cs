@@ -14,6 +14,10 @@ namespace EjercicioSD.Clases
             puntoCritico = new CPunto(sistemaIn);
         }
 
+        public CSistema()
+        {
+            int a = 0;
+        }
         #endregion
         
         #region Métodos de evaluación
